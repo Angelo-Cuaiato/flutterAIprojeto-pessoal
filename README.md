@@ -36,6 +36,6 @@ Sistema completo de chatbot com Flutter (frontend) e **Python FastAPI** (backend
 ## Funcionalidades
 
 - Interface de chat intuitiva
-- Integração com OpenAI GPT-3.5-turbo
+- Integração com OpenAI GPT-4o
 - Comunicação segura entre frontend e backend
 - Configuração de ambiente para chaves da API
